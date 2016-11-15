@@ -1,0 +1,17 @@
+I'm really just doing this to practice using this text editor.
+The course instructors suggested I use Sublime, but that costs $70.
+So I chose Atom, which is free, and is built by Github, and appears to possibly
+be more advanced than when they created the course.
+So they can suck it.
+Oh, and I did "Install Shell Commands", which now allows me to use Atom from
+the terminal.
+
+'Commit' allows you to save a version of the code, so you can go back to it if
+necessary. This is a manual process (though I assume the software is saving
+changes you make along the way). The benefits of manual saving is that it
+gives you control to 'commit' at logical break points.
+
+git log - This is used to pull up a repository e.g "git log asteroids.git"
+git diff - This is used to find changes from one commit to the next, using
+   the commit id's.
+   

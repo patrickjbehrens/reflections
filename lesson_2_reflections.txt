@@ -1,0 +1,2 @@
+When you initiate a repository (git init), meta data is placed around the project directory
+in order to control changes you make.
