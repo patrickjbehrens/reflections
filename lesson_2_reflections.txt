@@ -1,2 +1,5 @@
 When you initiate a repository (git init), meta data is placed around the project directory
 in order to control changes you make.
+
+The staging area acts as an intermediate stage between the directory and repository.
+It is useful to control what you want to commit.
