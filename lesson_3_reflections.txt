@@ -1,0 +1,2 @@
+A github repository is useful if you want to be able to work from multiple computers and when you have other contributors.
+
